@@ -199,10 +199,10 @@ header{
     border: 1px solid rgb(217, 217, 235);
 }
 .card-3{
-    border: 1px solid rgb(206, 206, 221);
+    border: 1px solid rgb(109, 109, 131);
 }
 .card-1 button{
-    border: 1px solid rgb(137, 137, 143);
+    border: 1px solid rgb(244, 244, 252);
 }
 .ttt{
      color: #2d67a8;
@@ -210,3 +210,4 @@ header{
 .card-2 button{
     background-color: #0c69d3;
 }
+
