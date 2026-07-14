@@ -236,6 +236,12 @@ header{
 .card-2 button{
     background-color: #0c69d3;
 }
+.pricing li{
+    color: #333333;
+}
+.card-2 li{
+    color: #a3bae9;
+}
 .sponsor-container{
     max-width: 1140px;
     margin: 0 auto;
