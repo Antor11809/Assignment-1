@@ -2,7 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 20px;
+    padding: 15px 30px; 
 }
 body{
     margin: 0;
@@ -27,10 +27,10 @@ ul li a{
 .btn{
     padding: 12px 24px;
     margin-right: 50px;
-    background: #2563EB;
+    background: #2563EB; 
     color: white;
     border: none;
-    border-radius: 8px;
+    border-radius: px;
     font-weight: 600;
     cursor: pointer;
 }
@@ -67,7 +67,7 @@ header{
     color: #FFFFFF;
 }
 .button-box{
-    margin-top: 60px;
+    margin-top: 60px; 
     display: flex;
     justify-content: center;
 }
@@ -85,7 +85,10 @@ header{
 .speaker-container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 25px;
+    gap: 25px; 
+}
+.red{
+    color: #575757;
 }
 .speakers h2{
     align-items: center;
@@ -122,13 +125,14 @@ header{
 }
 .pricing .uuu{
     text-align: center;
-    margin-bottom: 50px;
+  margin-bottom: 2px;
     color: #575757;
 }
 .card-container{
     max-width: 1140px;
     margin: 100px auto;
     padding: 0 20px;
+    margin-top: 50px;
 }
 .card-1{
      border: 1px solid #e5e7eb;
@@ -224,6 +228,7 @@ header{
 }
 .card-1 button{
     border: 1px solid rgb(17, 17, 250);
+    color: #0c69d3;
 }
 .card-3 button{
     border: 1px solid rgb(9, 9, 10);
