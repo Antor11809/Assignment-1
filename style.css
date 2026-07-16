@@ -49,7 +49,7 @@ header{
 .header{
     color: #FFFFFF;
     text-align: center;
-    transform: translateY(-40px);
+    margin-top: -60px;
 }
 .header h1{
      font-size: 55px;
@@ -256,7 +256,7 @@ header{
 }
 
 .sponsors h5{
-    color: #8B5CF6;
+    color: #7555be;
     font-size: 18px;
     margin-bottom: 10px;
     letter-spacing: 2px;
